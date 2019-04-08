@@ -12,9 +12,9 @@ Repo de prueba para la IT Academy de Mercado Libre. Autor: [JuaniFilardo].
 |---------|-------|
 | git clone **url** | Clona un repositorio localizado en **url** |
 | git add *archivos...* | Añade archivos al índice |
-| git commit -m "mensaje" | Graba los cambios en el repositorio local |
+| git commit -m **mensaje** | Graba los cambios en el repositorio local |
 | git push *repositorio rama* | Sincroniza el repositorio local con el remoto |
-| git tag **nombre**| Crea un tag con el **nombre** dado, que apunta al commit actual |
+| git tag **nombre** -m **mensaje** | Crea un tag con el **nombre** dado, que apunta al commit actual |
 
 
 
