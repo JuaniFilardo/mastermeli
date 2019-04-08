@@ -17,6 +17,16 @@ Repo de prueba para la IT Academy de Mercado Libre. Autor: [JuaniFilardo].
 | git tag **nombre** -m **mensaje** | Crea un tag con el **nombre** dado, que apunta al commit actual |
 
 
+## Compañeros de curso
+
+| Nombre del compañero | Enlace a su perfil |
+|---------|-------|
+| Guido Gastón Michelini | [guidomichelini] |
+| Matías Brond | [MatiBrond] |
+| Federico Silva |[FedericoSilva]|
 
 [//]:# (Links. This won't be seen after it's interpreted.)
 [JuaniFilardo]: <https://t.me/JuaniFilardo>
+[guidomichelini]: <https://github.com/guidomichelini>
+[MatiBrond]: <https://github.com/MatiBrond>
+[FedericoSilva]: <https://github.com/FedericoSilva>
