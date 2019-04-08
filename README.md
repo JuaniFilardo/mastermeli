@@ -15,6 +15,7 @@ Repo de prueba para la IT Academy de Mercado Libre. Autor: [JuaniFilardo].
 | git commit -m **mensaje** | Graba los cambios en el repositorio local |
 | git push *repositorio rama* | Sincroniza el repositorio local con el remoto |
 | git tag **nombre** -m **mensaje** | Crea un tag con el **nombre** dado, que apunta al commit actual |
+| git checkout -b **rama** | Crea una rama nueva y cambia a ella | 
 
 
 ## Compañeros de curso
